@@ -1,0 +1,8 @@
+{
+  "name": "AccountRptGen-web",
+  "version": "1.0.0",
+  "dependencies": {
+    "edge": "^6.5.1",
+    "express": "^4.15.2"
+  }
+}
